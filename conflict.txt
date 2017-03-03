@@ -1,2 +1,2 @@
-line 1 master change
+line 1 conflict from leveltwo
 line 2
